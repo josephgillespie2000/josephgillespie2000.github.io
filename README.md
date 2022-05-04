@@ -87,6 +87,63 @@
 </html>
 
 
+<!DOCTYPE html>
+<html>
 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial -scale=1">
+
+<body style="background-color:LightCoral;">
+
+
+
+            
+
+    <div class="topnav">
+      
+      <a href="file:///C:/Users/s00196499/Desktop/Joes%20Wesbsite/indext.html">Home Page</a>
+      <a href="file:///C:/Users/s00196499/Desktop/Joes%20Wesbsite/News.html">News</a>
+      <a href="file:///C:/Users/s00196499/Desktop/Joes%20Wesbsite/Match%20Reports.html">Match Reports</a>
+      <a href="file:///C:/Users/s00196499/Desktop/Joes%20Wesbsite/Match%20Highlights.html">Match Highlights</a>
+    
+    
+    <hr color="black">
+    
+    </div>
+    
+        <h1 style="text-align:center;">The United Stand</h1>
+        <h3 style="text-align:center;">Manchester United News & Updates. By The Fans for The fans.<h3>
+    <hr color="black"> 
+
+
+
+    <h1 style="text-align: center;">United vs Norwich Highlights</h1>
+
+<video width="1500" height="800" controls>
+  <source src="match.mp4" type="video/mp4">
+  <source src="match.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+<hr color="black">
+
+<h1 style="text-align: center;">Jadon Sancho Skills and Highlights</h1>
+<video width="1500" height="800" controls>
+  <source src="sancho.mp4" type="video/mp4">
+  <source src="sancho.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+<hr color="black">
+
+</div>
+
+    <h1 style="text-align:center;">The United Stand</h1>
+    <h3 style="text-align:center;">Manchester United News & Updates. By The Fans for The fans.<h3>
+<hr color="black"> 
+
+
+</html>
 
 
